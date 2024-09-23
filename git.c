@@ -4,6 +4,6 @@ int main()
 {
     printf("Hello, World!\n");
     printf("pull");
-    return 0;
+    printf("wode") return 0;
     /////
 }
